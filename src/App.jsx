@@ -895,23 +895,23 @@ function App() {
                 </div>
                 <div className="flex-1">
                   <div className="text-gray-400 mb-2 font-medium">Currently expanding my knowledge in</div>
-                  <div className="font-medium text-xl text-white mb-3">Advanced Machine Learning, Cloud Architecture & Web3</div>
+                  <div className="font-medium text-xl text-white mb-3">Full Stack Development, Intuitive UI/UX Design & Scalable Web Solutions</div>
                   <div className="flex flex-wrap gap-2 mt-2">
                     <span className="text-xs bg-white/10 border border-white/10 rounded-full px-3 py-1 text-white/90 flex items-center">
                       <span className="w-2 h-2 bg-green-400 rounded-full mr-2"></span>
-                      TensorFlow
+                      RESTful APIs
                     </span>
                     <span className="text-xs bg-white/10 border border-white/10 rounded-full px-3 py-1 text-white/90 flex items-center">
                       <span className="w-2 h-2 bg-blue-400 rounded-full mr-2"></span>
-                      AWS Solutions
+                      Cloud Deployment (AWS)
                     </span>
                     <span className="text-xs bg-white/10 border border-white/10 rounded-full px-3 py-1 text-white/90 flex items-center">
                       <span className="w-2 h-2 bg-purple-400 rounded-full mr-2"></span>
-                      Smart Contracts
+                      Database Optimization
                     </span>
                     <span className="text-xs bg-white/10 border border-white/10 rounded-full px-3 py-1 text-white/90 flex items-center">
                       <span className="w-2 h-2 bg-yellow-400 rounded-full mr-2"></span>
-                      Blockchain
+                      Scalable Backend Architectures
                     </span>
                   </div>
                 </div>
